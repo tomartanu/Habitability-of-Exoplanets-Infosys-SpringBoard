@@ -35,20 +35,20 @@ Data includes:
 🧩 Selected Features
 🌍 Planetary Features
 
-- pl_rade – Planet radius (Earth radii)
+- pl_rade – Planet radius 
 
-- pl_bmasse – Planet mass (Earth masses)
+- pl_bmasse – Planet mass
 
-- pl_eqt – Planet equilibrium temperature (K)
+- pl_eqt – Planet equilibrium temperature 
 
-- pl_orbper – Orbital period (days)
+- pl_orbper – Orbital period 
 
-- pl_orbsmax – Distance from host star (AU)
+- pl_orbsmax – Distance from host star 
 
 ☀️ Host Star Features
 
 - st_spectype – Host star spectral type
 
-- st_teff – Host star effective temperature (K)
+- st_teff – Host star effective temperature 
 
-- st_met – Host star metallicity (dex)
+- st_met – Host star metallicity
